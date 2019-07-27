@@ -1,0 +1,5 @@
+server:
+  port: 8005
+
+configur:
+  text: config enviremont development
