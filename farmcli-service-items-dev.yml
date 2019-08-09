@@ -1,0 +1,8 @@
+server:
+  port: 8005
+
+configur:
+  text: config enviremont development
+  autor: 
+    nombre: Samuel
+    email: andres@correo.com

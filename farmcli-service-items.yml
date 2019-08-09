@@ -2,4 +2,4 @@ server:
   port: 8005
 
 configur:
-  text: config enviremont development
+  text: config default enviremont development
