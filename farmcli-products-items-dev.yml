@@ -1,0 +1,8 @@
+server:
+  port: 8005
+
+configur:
+  text: apps-text
+  autor: 
+    nombre: Samuel Guardado
+    email: sguardado@correo.com
